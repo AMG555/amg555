@@ -1,88 +1,349 @@
-# <p align="center">✦ AI-Native Full-Stack Product Engineer ✦</p>
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&quote=The%20best%20way%20to%20predict%20the%20future%20is%20to%20invent%20it%20faster.&author=Amal%20George" alt="Quote" />
-</div>
-
----
-
-### ✺ The Core Vision
-I am an **AI-Native Full-Stack Product Engineer** obsessed with the **future of execution**. I don't just build products; I build them at the speed of thought by mastering the **Human-AI collaborative loop**. 
-
-For me, **AI-Assisted Coding** isn't just a tool—it's a superpower that allows me to architect complex, enterprise-ready systems (SaaS, Mobile, IoT) with surgical precision and unprecedented velocity. I am deeply passionate about pushing the boundaries of what a single developer, augmented by intelligence, can achieve.
-
----
-
-### ✺ The AI-Augmented Workflow
-> "Modern engineering isn't just about writing code; it's about orchestrating intelligent agents to solve real-world scale problems."
-
-- **Intelligent Architecting:** Using LLMs to rapid-prototype edge cases and multi-tenant RLS policies.
-- **Augmented Development:** Leveraging Copilot, and custom AI agents to maintain 10x shipping velocity.
-- **Refined Engineering:** Human-led quality control and performance optimization for production-grade reliability.
-
----
-
-### ✺ Strategic Deep-Dives (Verified Work)
-
-#### [✧ Dormico — Enterprise Multi-tenant SaaS](https://dormico.in/)
-A live ecosystem automating end-to-end hostel operations.
-- **Architecture:** Engineered with **Next.js 14**, **React Native**, and **Supabase (RLS)**.
-- **Innovation:** Implemented UPI AutoPay (Mandate) systems with automated reconciliation and dynamic occupancy-based pricing.
-- **Impact:** Live on Google Play Store, handling thousands of automated billing cycles.
-
-#### [✧ FinSaathi — Privacy-First AI Finance](https://github.com/amg555/finsaathi)
-A sophisticated AI tax and financial planning assistant for India.
-- **Architecture:** Bridge between **Flutter 3.x** and a **Local Llama 3.1 8B** model.
-- **Innovation:** Full PII anonymization and AES-256 encryption ensures total data privacy while serving real-time financial insights.
-
-#### [✧ RedLife — Adversarial Synthesis Engine](https://github.com/amg555/redlife)
-AI-powered decision stress-testing platform for high-stakes scenarios.
-- **Architecture:** Hardened adversarial engine built on **Next.js 14** and **Python**.
-- **Innovation:** Generates unique, non-templated synthetic outputs designed for viral-quality engagement and stress-validation.
-
-#### [✧ Smart Dustbin — IoT + Computer Vision](https://github.com/amg555/smart-dustbin)
-Industrial-grade AI waste management solution.
-- **Architecture:** **Python**, **TensorFlow**, **OpenCV**, and **Raspberry Pi**.
-- **Innovation:** Achieved **75% classification accuracy** for real-time waste segregation across multiple categories using edge computing.
-
----
-
-### ✺ Technical Arsenal
-
 <div align="center">
 
-| Domain | Intelligence & Scale Stack |
-| :--- | :--- |
-| **Architectures** | `SaaS (Multi-tenant)` • `Distributed Systems` • `Microservices` • `Edge Computing` |
-| **AI & Agents** | • `vLLM` • `RAG Pipelines` • `LangChain` |
-| **Frameworks** | `Next.js 15` • `React Native / Expo` • `Nuxt.js`• `FastAPI` • `Express.js` • `Flutter` |
-| **Infrastructure** | `PostgreSQL` • `Redis` • `Cloudflare Edge` • `Supabase` • `Docker` |
+<!-- ═══════════════════════════════════════════════════════════ -->
+<!--           AMAL GEORGE (AMG555) — PROFILE README            -->
+<!-- ═══════════════════════════════════════════════════════════ -->
 
-</div>
-
----
-
-### ✺ Engineered for Impact
-> *Consistently delivering high-stakes, production-ready solutions with a focus on speed, precision, and architectural longevity.*
-
-- **15+** Projects Delivered
-- **10x** Execution Velocity via AI-Augmentation
-- **100%** Focus on Scalable SaaS & Mobile Ecosystems
-
----
-
-### ✺ Current Obsession
-> *Optimizing the "Brain-to-Production" pipeline. Exploring collaborative agentic workflows and decentralized AI infrastructure.*
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/amal-george-740036320" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-45A1FF?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:amgt503@gmail.com">
-    <img src="https://img.shields.io/badge/Email-45A1FF?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+<a href="https://github.com/AMG555">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=2600&pause=1100&color=38BDF8&center=true&vCenter=true&width=760&lines=Amal+George+%C2%B7+Product+Engineer;AI-Native+Builder+%C2%B7+Full-Stack+%2F+Systems;Architecture+%E2%86%92+Infrastructure+%E2%86%92+Deployment;SaaS+%C2%B7+Multi-Tenant+Systems+%C2%B7+Rust+%C2%B7+Edge+AI" alt="Typing SVG Banner" />
+</a>
 
 <p align="center">
-  <i>Building the products of the sentient future.</i>
+  <b>Product Engineer · AI-Native Builder · Full-Stack / Systems</b><br>
+  <sub>Independent Builder · Systems & SaaS Architecture</sub>
 </p>
+
+<p align="center">
+  <i>"I architect and ship products end-to-end — bridging system design, distributed data isolation, and resilient backend infrastructure into high-polish user software."</i>
+</p>
+
+<p align="center">
+  <a href="https://github.com/AMG555"><img src="https://img.shields.io/badge/Status-Actively_Building_Products-10b981?style=flat-square&logo=git&logoColor=white" alt="Status" /></a>
+  <a href="#-01-dormico--production-multi-tenant-hostel-management-saas"><img src="https://img.shields.io/badge/Flagship-Dormico.in-f59e0b?style=flat-square&logo=google-chrome&logoColor=white" alt="Dormico Flagship" /></a>
+  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Systems-VoxForg_(Rust)-orange?style=flat-square&logo=rust&logoColor=white" alt="VoxForg Rust" /></a>
+  <a href="https://github.com/amg555/smart-dustbin"><img src="https://img.shields.io/badge/Edge_AI-Smart_Bin-blue?style=flat-square&logo=raspberrypi&logoColor=white" alt="Smart Bin" /></a>
+  <a href="mailto:amgt503@gmail.com"><img src="https://img.shields.io/badge/Signal-Open_To_Engineering_Roles-a855f7?style=flat-square" alt="Open To Roles" /></a>
+</p>
+
+</div>
+
+---
+
+### ◈ What I Build
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+`🏢 MULTI-TENANT SAAS & PLATFORMS`  
+**Data Isolation · Billing Workflows · Reconciliation**  
+Production systems built around strict tenant boundaries (PostgreSQL RLS), automated recurring payment lifecycles, UPI AutoPay / e-mandate integration, and operational state machines.
+
+</td>
+<td width="50%" valign="top">
+
+`⚙️ SYSTEMS & PIPELINE RUNTIMES`  
+**Rust Workspaces · DAG Runners · Hardware Auto-Dispatch**  
+Modular, low-latency runtimes, directed acyclic graph (DAG) task execution, SIMD / GPU accelerator detection, and standards-compliant API surfaces.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+`🤖 EDGE AI & HARDWARE INTEGRATION`  
+**Computer Vision · Embedded Linux · Physical Sorting**  
+Real-time object detection on edge devices (YOLO + Raspberry Pi), electromechanical actuation, sensor telemetry, and offline-first edge compute loops.
+
+</td>
+<td width="50%" valign="top">
+
+`⚡ AI-NATIVE EXECUTION`  
+**Augmented Velocity · Human Architectural Ownership**  
+Leveraging intelligent agentic workflows to accelerate exploratory prototyping and eliminate repetitive code, while maintaining rigorous human judgment on boundaries, security, and schema invariants.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ Selected Work
+
+Depth over breadth. Three projects demonstrating product delivery, systems engineering, and hardware-software integration.
+
+<br/>
+
+<!-- ── PROJECT 1: DORMICO (FLAGSHIP) ── -->
+
+<table width="100%">
+<tr>
+<td colspan="2">
+  <div align="left">
+    <h3>✦ 01. Dormico — Production Multi-Tenant Hostel Management SaaS</h3>
+  </div>
+  <p><b>Commercial multi-tenant platform automating end-to-end hostel operations, occupancy tracking, and recurring financial reconciliation. Independently architected, developed, and deployed to production.</b></p>
+  <div>
+    <a href="https://dormico.in"><img src="https://img.shields.io/badge/Deployment-Live_Production-10b981?style=flat-square&logo=vercel&logoColor=white" alt="Live Production" /></a>
+    <img src="https://img.shields.io/badge/Traction-35%2B_Registered_Users-38bdf8?style=flat-square" alt="35+ Registered Users" />
+    <img src="https://img.shields.io/badge/Platform-Web_%2B_Android-f59e0b?style=flat-square&logo=android&logoColor=white" alt="Web and Android" />
+    <img src="https://img.shields.io/badge/Source-Private_(Commercial)-475569?style=flat-square" alt="Commercial Source" />
+  </div>
+</td>
+</tr>
+<tr>
+<td width="55%" valign="top">
+
+<h4>Architecture & Capabilities</h4>
+
+- **Multi-Tenant Boundary Isolation:** Database-level isolation built on Supabase PostgreSQL with strict Row-Level Security (RLS) policies, guaranteeing ironclad data separation across tenant contexts.
+- **Automated Billing & Reconciliation:** Recurring billing pipeline integrated with UPI AutoPay (e-mandates), handling automated invoicing, payment state transitions, and reconciliation.
+- **Dynamic Operations & Pricing:** Operational state machine tracking rooms, beds, resident onboarding/offboarding lifecycles, and occupancy-based dynamic rate adjustments.
+- **Full-Stack Delivery:** Production Next.js web application paired with a cross-platform React Native Android mobile client.
+
+```
+Next.js Web & React Native App
+      │ HTTPS / JWT Auth
+      ▼
+┌──────────────────────────────────────────┐
+│            DORMICO ECOSYSTEM             │
+│  ┌────────────────────────────────────┐  │
+│  │ Supabase PostgreSQL + RLS Policies │  │
+│  │ (Strict Multi-Tenant Isolation)    │  │
+│  └───────┬────────────────────┬───────┘  │
+│          ▼                    ▼          │
+│  ┌───────────────┐    ┌───────────────┐  │
+│  │ UPI AutoPay   │    │  Dynamic Bed  │  │
+│  │ Mandate Engine│    │ State Machine │  │
+│  └───────────────┘    └───────────────┘  │
+└──────────────────────────────────────────┘
+```
+
+</td>
+<td width="45%" valign="top">
+
+<h4>Technical Profile</h4>
+
+- **Web Interface:** Next.js, React, Tailwind CSS
+- **Mobile Client:** React Native / Expo (Android)
+- **Data & Auth:** PostgreSQL, Supabase (RLS), Supabase Auth
+- **Payments:** UPI AutoPay, Mandate Workflows, Webhook Handlers
+- **State & Cloud:** REST APIs, Cloud Functions, Edge CDN
+
+<br/>
+
+<div align="center">
+  <a href="https://dormico.in"><b>🔗 Explore Live Platform (dormico.in) →</b></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ── PROJECT 2 & 3: VOXFORG & SMART BIN ── -->
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h3>✦ 02. VoxForg</h3>
+<b>Self-Hostable Multi-Engine TTS Platform</b>
+
+<p>
+  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Status-In_Active_Development_(Pre--v1.0)-f59e0b?style=flat-square" alt="Pre-v1.0 Status" /></a>
+  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Repo-AMG555%2Fvoxforg-blue?style=flat-square&logo=github&logoColor=white" alt="VoxForg Repo" /></a>
+</p>
+
+Modular speech synthesis server and visual workflow runner. Unifies 10+ local and cloud speech engines behind a single Rust core with zero-latency streaming.
+
+- **Modular Rust Workspace:** Decoupled crates (`voxforg-api`, `voxforg-hardware`, `voxforg-pipeline`, `voxforg-cli`) powered by Axum.
+- **Hardware-Aware Adaptive Dispatch:** Auto-detects CPU vector extensions (AVX2, AVX-512, NEON) and GPU acceleration (CUDA, Apple MPS, DirectML) to dynamically allocate optimal engine models.
+- **DAG Pipeline Runner:** Node-based directed acyclic graph builder to chain multi-speaker audio graphs, prosody controls, and pause markers.
+- **Tri-Tier Storage:** Zero-dependency SQLite (WAL mode) for desktop, PostgreSQL for Docker self-hosting, and Supabase RLS for multi-tenant deployments.
+- **API & Security:** OpenAI-compatible `/v1/audio/speech` endpoint, token-bucket rate limiting, and granular scope permissions (`tts:read`, `tts:write`, `pipeline:admin`).
+
+```
+Client App (Web / OpenAI SDK)
+      │ HTTP / WebSocket
+      ▼
+┌──────────────────────────────────────────┐
+│             VOXFORG DAEMON               │
+│  ┌────────────────┐  ┌────────────────┐  │
+│  │  voxforg-api   │  │voxforg-hardware│  │
+│  │ (Axum 0.8/Auth)│  │(CUDA/MPS/AVX)  │  │
+│  └───────┬────────┘  └───────┬────────┘  │
+│          ▼                   ▼           │
+│  ┌────────────────────────────────────┐  │
+│  │          DAG Audio Runner          │  │
+│  │ (Piper / Kokoro / Edge-TTS Relays) │  │
+│  └────────────────────────────────────┘  │
+└──────────────────────────────────────────┘
+```
+
+**Stack:** `Rust` · `Axum` · `React 19` · `TypeScript` · `Docker` · `SQLite/PostgreSQL`
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/AMG555/voxforg"><b>View VoxForg Repository →</b></a>
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<h3>✦ 03. Smart Bin</h3>
+<b>AI-Powered Waste Segregation</b>
+
+<p>
+  <a href="https://github.com/amg555/smart-dustbin"><img src="https://img.shields.io/badge/Type-Hardware--Software_System-10b981?style=flat-square" alt="System Type" /></a>
+  <a href="https://github.com/amg555/smart-dustbin"><img src="https://img.shields.io/badge/Repo-amg555%2Fsmart--dustbin-blue?style=flat-square&logo=github&logoColor=white" alt="Smart Bin Repo" /></a>
+</p>
+
+Automated waste classification and physical mechanical routing system engineered for real-time edge execution.
+
+- **Edge Computer Vision:** Custom-trained YOLOv11 model running locally on Raspberry Pi 4 for real-time item detection and 4-way stream classification (*Plastic, Metal, Paper, Glass*).
+- **Physical Actuation:** Dual-axis servo mechanical guide powered by a PCA9685 16-channel PWM driver and high-torque MG996R servos.
+- **Sub-2-Second Cycle:** IR proximity sensor triggers image capture only on insertion, completing inference and mechanical sorting in under 2 seconds.
+- **Telemetry & Monitoring:** Four HC-SR04 ultrasonic sensors track fill levels per compartment with automated alert thresholds.
+- **Offline-First Resilience:** Self-contained edge inference runs without requiring persistent cloud network connectivity.
+
+```
+Waste Insertion ──► IR Trigger ──► Pi Camera Module
+                                          │
+                                          ▼
+┌──────────────────────────────────────────────────┐
+│           EDGE RUNTIME (RASPBERRY PI 4)          │
+│  YOLOv11 Tensor Inference (<2s Latency)          │
+│  [Plastic]     [Metal]     [Paper]     [Glass]   │
+└─────────────────────────┬────────────────────────┘
+                          ▼
+             PCA9685 PWM Servo Mechanism
+```
+
+**Stack:** `Python` · `YOLOv11` · `Raspberry Pi 4` · `OpenCV` · `PCA9685/PWM` · `Sensors`
+
+<br/>
+
+<div align="center">
+  <a href="https://github.com/amg555/smart-dustbin"><b>View Smart Bin Repository →</b></a>
+</div>
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ The AI-Native Workflow
+
+I leverage artificial intelligence as an **execution multiplier**, not a cognitive substitute. AI increases implementation throughput; engineering judgment directs architecture and ensures correctness.
+
+<table width="100%">
+<tr>
+<td width="50%" valign="top">
+
+<h4>⚡ AI-Amplified Execution</h4>
+
+- Rapid exploratory prototyping and API contract mocking.
+- Elimination of repetitive boilerplate across client/server boundaries.
+- Generating edge-case test vectors and synthetic validation scenarios.
+- Accelerated documentation and structural refactoring.
+
+</td>
+<td width="50%" valign="top">
+
+<h4>🧠 Human Engineering Ownership</h4>
+
+- Multi-tenant data isolation and security boundary design.
+- Database schema modeling and strict invariant validation.
+- Concurrency, memory profiling, and low-level performance tradeoffs.
+- Critical path debugging, telemetry instrumentation, and failure-mode analysis.
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ Defensible Technical Arsenal
+
+Technologies grounded in shipped repositories and real-world architectures:
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top">
+
+**Product & Interfaces**
+- Next.js
+- React
+- React Native / Expo
+- TypeScript
+- Tailwind CSS
+
+</td>
+<td width="25%" valign="top">
+
+**Backend & Data**
+- Node.js / Express
+- FastAPI / Python
+- PostgreSQL
+- Supabase (RLS)
+- Redis
+
+</td>
+<td width="25%" valign="top">
+
+**Systems & Infra**
+- Rust (Axum, Cargo)
+- Docker / Multi-Arch
+- Linux Environments
+- Cloudflare Workers / Edge
+- CI/CD & Git Automation
+
+</td>
+<td width="25%" valign="top">
+
+**AI & Edge**
+- YOLO (Computer Vision)
+- OpenCV
+- OpenAI API Architecture
+- Raspberry Pi (GPIO / PWM)
+- Embedded Linux Telemetry
+
+</td>
+</tr>
+</table>
+
+---
+
+### ◈ Engineering Principles
+
+- **Build complete systems, not orphaned features.** A feature is only done when it has data invariants, automated error recovery, telemetry, and a clear user interface.
+- **Enforce boundaries at the data and type level.** UI validation is for ergonomics; database constraints, RLS policies, and strict types are for truth.
+- **Automate what repeats; deeply audit what is critical.** Use machines to accelerate mechanical plumbing so human attention is concentrated on architecture and reliability.
+- **Ship to real environments early.** Software in production teaches you more in 24 hours than speculative whiteboard design does in a month.
+
+---
+
+### ◈ Connect & Signal
+
+<p align="center">
+  <b>Actively building products · Open to building high-impact systems with ambitious engineering teams.</b>
+</p>
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-AMG555-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AMG555)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Amal_George-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/amal-george-740036320)
+[![Email](https://img.shields.io/badge/Email-amgt503%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:amgt503@gmail.com)
+[![Dormico](https://img.shields.io/badge/Platform-Dormico.in-D97706?style=for-the-badge&logo=google-chrome&logoColor=white)](https://dormico.in)
+
+</div>
+
+<br/>
+
+<div align="center">
+  <sub>Built & maintained by Amal George · AMG555</sub>
+</div>
