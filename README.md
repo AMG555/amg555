@@ -20,7 +20,7 @@
 <p align="center">
   <a href="https://github.com/AMG555"><img src="https://img.shields.io/badge/Status-Actively_Building_Products-10b981?style=flat-square&logo=git&logoColor=white" alt="Status" /></a>
   <a href="#-01-dormico--production-multi-tenant-hostel-management-saas"><img src="https://img.shields.io/badge/Flagship-Dormico.in-f59e0b?style=flat-square&logo=google-chrome&logoColor=white" alt="Dormico Flagship" /></a>
-  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Systems-VoxForg_(Rust)-orange?style=flat-square&logo=rust&logoColor=white" alt="VoxForg Rust" /></a>
+  <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Systems-VoxForge_(Rust)-orange?style=flat-square&logo=rust&logoColor=white" alt="VoxForge Rust" /></a>
   <a href="https://github.com/amg555/smart-dustbin"><img src="https://img.shields.io/badge/Edge_AI-Smart_Bin-blue?style=flat-square&logo=raspberrypi&logoColor=white" alt="Smart Bin" /></a>
   <a href="mailto:amgt503@gmail.com"><img src="https://img.shields.io/badge/Signal-Open_To_Engineering_Roles-a855f7?style=flat-square" alt="Open To Roles" /></a>
 </p>
@@ -142,23 +142,23 @@ Next.js Web & React Native App
 
 <br/>
 
-<!-- ── PROJECT 2 & 3: VOXFORG & SMART BIN ── -->
+<!-- ── PROJECT 2 & 3: VOXFORGE & SMART BIN ── -->
 
 <table width="100%">
 <tr>
 <td width="50%" valign="top">
 
-<h3>✦ 02. VoxForg</h3>
+<h3>✦ 02. VoxForge</h3>
 <b>Self-Hostable Multi-Engine TTS Platform</b>
 
 <p>
-  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Status-In_Active_Development_(Pre--v1.0)-f59e0b?style=flat-square" alt="Pre-v1.0 Status" /></a>
-  <a href="https://github.com/AMG555/voxforg"><img src="https://img.shields.io/badge/Repo-AMG555%2Fvoxforg-blue?style=flat-square&logo=github&logoColor=white" alt="VoxForg Repo" /></a>
+  <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Status-In_Active_Development_(Pre--v1.0)-f59e0b?style=flat-square" alt="Pre-v1.0 Status" /></a>
+  <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Repo-AMG555%2FVoxForge-blue?style=flat-square&logo=github&logoColor=white" alt="VoxForge Repo" /></a>
 </p>
 
 Modular speech synthesis server and visual workflow runner. Unifies 10+ local and cloud speech engines behind a single Rust core with zero-latency streaming.
 
-- **Modular Rust Workspace:** Decoupled crates (`voxforg-api`, `voxforg-hardware`, `voxforg-pipeline`, `voxforg-cli`) powered by Axum.
+- **Modular Rust Workspace:** Decoupled crates (`voxforge-api`, `voxforge-hardware`, `voxforge-pipeline`, `voxforge-cli`) powered by Axum.
 - **Hardware-Aware Adaptive Dispatch:** Auto-detects CPU vector extensions (AVX2, AVX-512, NEON) and GPU acceleration (CUDA, Apple MPS, DirectML) to dynamically allocate optimal engine models.
 - **DAG Pipeline Runner:** Node-based directed acyclic graph builder to chain multi-speaker audio graphs, prosody controls, and pause markers.
 - **Tri-Tier Storage:** Zero-dependency SQLite (WAL mode) for desktop, PostgreSQL for Docker self-hosting, and Supabase RLS for multi-tenant deployments.
@@ -169,12 +169,12 @@ Client App (Web / OpenAI SDK)
       │ HTTP / WebSocket
       ▼
 ┌──────────────────────────────────────────┐
-│             VOXFORG DAEMON               │
-│  ┌────────────────┐  ┌────────────────┐  │
-│  │  voxforg-api   │  │voxforg-hardware│  │
-│  │ (Axum 0.8/Auth)│  │(CUDA/MPS/AVX)  │  │
-│  └───────┬────────┘  └───────┬────────┘  │
-│          ▼                   ▼           │
+│             VOXFORGE DAEMON              │
+│  ┌────────────────┐  ┌─────────────────┐ │
+│  │  voxforge-api  │  │voxforge-hardware│ │
+│  │ (Axum 0.8/Auth)│  │ (CUDA/MPS/AVX)  │ │
+│  └───────┬────────┘  └────────┬────────┘ │
+│          ▼                    ▼          │
 │  ┌────────────────────────────────────┐  │
 │  │          DAG Audio Runner          │  │
 │  │ (Piper / Kokoro / Edge-TTS Relays) │  │
@@ -187,7 +187,7 @@ Client App (Web / OpenAI SDK)
 <br/>
 
 <div align="center">
-  <a href="https://github.com/AMG555/voxforg"><b>View VoxForg Repository →</b></a>
+  <a href="https://github.com/AMG555/VoxForge"><b>View VoxForge Repository →</b></a>
 </div>
 
 </td>
