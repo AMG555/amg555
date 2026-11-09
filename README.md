@@ -152,7 +152,7 @@ Next.js Web & React Native App
 <b>Self-Hostable Multi-Engine TTS Platform</b>
 
 <p>
-  <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Status-In_Active_Development_(Pre--v1.0)-f59e0b?style=flat-square" alt="Pre-v1.0 Status" /></a>
+  <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Status-Feature_Complete_v0.2.0_Beta-blue.svg" alt="Pre-v1.0 Status" /></a
   <a href="https://github.com/AMG555/VoxForge"><img src="https://img.shields.io/badge/Repo-AMG555%2FVoxForge-blue?style=flat-square&logo=github&logoColor=white" alt="VoxForge Repo" /></a>
 </p>
 
